@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "name": "Product No1",
+      "image": "https://source.unsplash.com/random",
+      "title": "product1",
+      "description": "Lorem ipsum dolor sit amet consquo sequi ...",
+      "minimum_bid": 10,
+      "last_bid": 16,
+      "close_time": "00:00:00",
+      "id": 1
+    },
+    {
+      "name": "Product No2",
+      "image": "https://source.unsplash.com/random",
+      "title": "product2",
+      "description": "Lorem ipsum dolor sit amet consquo sequi ...",
+      "minimum_bid": 10,
+      "last_bid": 6,
+      "close_time": "00:00:00",
+      "id": 2
+    },
+    {
+      "name": "Product No3",
+      "image": "https://source.unsplash.com/random",
+      "title": "product3",
+      "description": "Lorem ipsum dolor sit amet consquo sequi ...",
+      "minimum_bid": 10,
+      "close_time": "00:00:00",
+      "last_bid": 16,
+      "id": 3
+    },
+    {
+      "name": "Product No4",
+      "image": "https://source.unsplash.com/random",
+      "title": "product4",
+      "description": "Lorem ipsum dolor sit amet consquo sequi ...",
+      "last_bid": "16",
+      "close_time": "00:00:00",
+      "id": 4
+    },
+    {
+      "name": "Product No5",
+      "image": "https://source.unsplash.com/random",
+      "title": "product5",
+      "description": "Lorem ipsum dolor sit amet consquo sequi ...",
+      "minimum_bid": 10,
+      "last_bid": 16,
+      "close_time": "00:00:00",
+      "id": 5
+    },
+    {
+      "name": "Product No6",
+      "image": "https://source.unsplash.com/random",
+      "title": "product6",
+      "description": "Lorem ipsum dolor sit amet consquo sequi ...",
+      "minimum_bid": 1,
+      "close_time": "00:00:00",
+      "last_bid": 16,
+      "id": 6
+    },
+    {
+      "name": "Product No7",
+      "image": "https://source.unsplash.com/random",
+      "title": "product7",
+      "description": "Lorem ipsum dolor sit amet consquo sequi ...",
+      "minimum_bid": 10,
+      "last_bid": 16,
+      "close_time": "00:00:00",
+      "id": 7
+    },
+    {
+      "name": "Product No8",
+      "image": "https://source.unsplash.com/random",
+      "title": "product8",
+      "description": "Lorem ipsum dolor sit amet consquo sequi ...",
+      "minimum_bid": 10,
+      "last_bid": "30",
+      "close_time": "00:00:00",
+      "id": 8
+    },
+    {
+      "name": "Product No9",
+      "image": "https://source.unsplash.com/random",
+      "title": "product9",
+      "description": "Lorem ipsum dolor sit amet consquo sequi ...",
+      "minimum_bid": 10,
+      "last_bid": 16,
+      "close_time": "00:00:00",
+      "id": 9
+    }
+  ]
+}
